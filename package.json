@@ -1,0 +1,41 @@
+{
+    "name": "furor-progress-crud",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "concurrently \"vite --mode dev\" \"npm run server\"",
+        "server": "nodemon",
+        "build": "vite build",
+        "lint": "eslint --ext .js,.ts,.vue src",
+        "format": "prettier --write .",
+        "prepare": "husky install",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@quasar/extras": "^1.17.0",
+        "@types/vue-the-mask": "^0.11.5",
+        "axios": "^1.10.0",
+        "json-server": "^1.0.0-beta.3",
+        "pinia": "^3.0.3",
+        "quasar": "^2.18.1",
+        "uuid": "^11.1.0",
+        "vue": "^3.5.13",
+        "vue-router": "^4.5.1"
+    },
+    "devDependencies": {
+        "@quasar/vite-plugin": "^1.9.0",
+        "@types/node": "^24.0.3",
+        "@vitejs/plugin-vue": "^5.2.3",
+        "autoprefixer": "^10.4.21",
+        "concurrently": "^9.1.2",
+        "husky": "^9.1.7",
+        "nodemon": "^3.1.10",
+        "postcss": "^8.5.6",
+        "prettier": "^3.5.3",
+        "sass-embedded": "^1.80.2",
+        "tailwindcss": "^4.1.10",
+        "typescript": "^5.8.3",
+        "vite": "^6.3.5"
+    }
+}

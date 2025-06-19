@@ -1,0 +1,5 @@
+{
+    "watch": ["backend"],
+    "ext": "json",
+    "exec": "json-server --watch backend/product.json --port 3000"
+}

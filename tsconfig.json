@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        // "types": ["vite/client"],
+        "types": ["vite/client", "quasar", "node", "@quasar/types"],
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "strict": true,
+        "jsx": "preserve",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "allowJs": true,
+        "checkJs": false,
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["src/*"]
+        }
+    },
+    "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.vue"]
+}
