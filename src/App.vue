@@ -1,5 +1,7 @@
 <template>
-    <router-view></router-view>
+    <div class="">
+        <router-view></router-view>
+    </div>
 </template>
-<style></style>
 <script setup lang="ts"></script>
+<script src="./App.ts"></script>

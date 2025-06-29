@@ -5,7 +5,6 @@
             class="overlay"
         ></div>
         <ProductForm @loading="loadingFn" />
-
         <q-spinner
             v-if="loading"
             color="primary"
@@ -67,11 +66,10 @@ const deleteTheProduct = async (id: string) => {
     try {
         loading.value = true;
         await store.deleteProduct(id);
-        // Mahsulot o'chirilgandan so'ng yana yangilab olish
-        await store.fetchProducts();
     } catch (error) {
         console.error("Error deleting product:", error);
     } finally {
+        await store.fetchProducts();
         setTimeout(() => {
             loading.value = false;
         }, 400);

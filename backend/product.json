@@ -1,575 +1,570 @@
 {
-    "products": [
-        {
-            "id": "18a187fb-b8df-40b7-a311-9569a58b625c",
-            "name": "iphone 14 mini",
-            "price": 1400,
-            "quant": 131
-        },
-        {
-            "id": "1b9b51e1-7a7f-461a-8aff-7d0cc7513227",
-            "name": "Gaming Laptop",
-            "price": 964,
-            "quant": 143
-        },
-        {
-            "id": "c67ed78f-6f55-410c-b3ee-017e08e383a7",
-            "name": "Wireless Headphones",
-            "price": 3465,
-            "quant": 48
-        },
-        {
-            "id": "42d75fc9-0018-48d1-a253-079d080fbebf",
-            "name": "Mechanical Keyboard",
-            "price": 3332,
-            "quant": 413
-        },
-        {
-            "id": "b5830380-eb2c-4819-8f1c-46028b31e2cb",
-            "name": "Smartphone",
-            "price": 2123,
-            "quant": 43
-        },
-        {
-            "id": "d583d0c7-e37c-4a7c-a8cf-d31613ebc811",
-            "name": "Bluetooth Speaker",
-            "price": 143,
-            "quant": 295
-        },
-        {
-            "id": "3fbb7a33-aac9-4044-84c3-427c8bd430b2",
-            "name": "Smartwatch",
-            "price": 3216,
-            "quant": 289
-        },
-        {
-            "id": "cc5fd7c1-1489-4b71-8cf5-996d108ada7a",
-            "name": "Portable SSD",
-            "price": 2791,
-            "quant": 384
-        },
-        {
-            "id": "e2b17834-72d5-44ff-b221-9d5951965d8d",
-            "name": "4K Monitor",
-            "price": 297,
-            "quant": 178
-        },
-        {
-            "id": "c8a4fe35-cef9-476d-b246-cfe5d0613fb7",
-            "name": "Graphics Card",
-            "price": 2130,
-            "quant": 74
-        },
-        {
-            "id": "064e15e9-2bcd-4449-9f3e-50d605396036",
-            "name": "Gaming Mouse",
-            "price": 234,
-            "quant": 166
-        },
-        {
-            "id": "17edf752-47f9-4690-bd12-6986ba289c50",
-            "name": "Drone Camera",
-            "price": 2393,
-            "quant": 61
-        },
-        {
-            "id": "4f08cfdf-4ea1-4aa5-95a5-cfc1e451f99a",
-            "name": "LED Strip Light",
-            "price": 830,
-            "quant": 218
-        },
-        {
-            "id": "d396e177-f0b7-430e-b403-b7b576a3021f",
-            "name": "Wireless Charger",
-            "price": 3486,
-            "quant": 290
-        },
-        {
-            "id": "b3c50140-6446-4787-afb1-8642f54069a7",
-            "name": "Fitness Tracker",
-            "price": 2673,
-            "quant": 34
-        },
-        {
-            "id": "a44b6ef7-f0ae-4e1d-99cd-d6c4788d184c",
-            "name": "VR Headset",
-            "price": 375,
-            "quant": 116
-        },
-        {
-            "id": "03aa7207-a731-4c25-999c-1a7ca1fb5ca4",
-            "name": "Action Camera",
-            "price": 2425,
-            "quant": 144
-        },
-        {
-            "id": "a2b233eb-23b1-4792-b77b-03dd89f0ef73",
-            "name": "Smart Thermostat",
-            "price": 834,
-            "quant": 464
-        },
-        {
-            "id": "46c2688c-b33e-4053-9425-ab368a366761",
-            "name": "Robot Vacuum",
-            "price": 3719,
-            "quant": 81
-        },
-        {
-            "id": "5142842c-db2d-4412-a078-6b83a45b4f8d",
-            "name": "Noise Cancelling Headphones",
-            "price": 1867,
-            "quant": 275
-        },
-        {
-            "id": "02e154a7-baec-4a6c-a610-65690b126d54",
-            "name": "Smart TV",
-            "price": 3250,
-            "quant": 337
-        },
-        {
-            "id": "24eed493-da6c-4655-8f70-323782505743",
-            "name": "3D Printer",
-            "price": 899,
-            "quant": 497
-        },
-        {
-            "id": "ff376b64-0409-4138-bdfd-82e1695f08d5",
-            "name": "Gaming Chair",
-            "price": 2813,
-            "quant": 340
-        },
-        {
-            "id": "88000a3d-d245-4e46-b481-1c23ebb58b40",
-            "name": "Electric Scooter",
-            "price": 2534,
-            "quant": 346
-        },
-        {
-            "id": "43a7ae9a-8dae-4307-8172-3038f9a61ef8",
-            "name": "Digital SLR Camera",
-            "price": 1309,
-            "quant": 483
-        },
-        {
-            "id": "70b5b6f2-ecf7-4399-be1d-d05fd91a342d",
-            "name": "Streaming Microphone",
-            "price": 2806,
-            "quant": 453
-        },
-        {
-            "id": "93b67f0f-f2cb-4567-9bf5-1aeca84c52c1",
-            "name": "Projector",
-            "price": 1568,
-            "quant": 211
-        },
-        {
-            "id": "854ebd9a-0afe-423e-9d6e-dd83b6692c2d",
-            "name": "NAS Storage",
-            "price": 2519,
-            "quant": 422
-        },
-        {
-            "id": "0a071290-6d4c-49f7-8111-1b1f296ed963",
-            "name": "Smart Doorbell",
-            "price": 2621,
-            "quant": 102
-        },
-        {
-            "id": "43dc7136-4bf9-42eb-a2db-7b962f3e4512",
-            "name": "Power Bank",
-            "price": 145,
-            "quant": 236
-        },
-        {
-            "id": "eb03ae5f-d145-4c4a-a3b1-20deb8117dd7",
-            "name": "External Hard Drive",
-            "price": 1853,
-            "quant": 117
-        },
-        {
-            "id": "691eed79-3cc8-40a7-8d5f-d31d75c154dd",
-            "name": "Laptop Stand",
-            "price": 3760,
-            "quant": 129
-        },
-        {
-            "id": "3319fb0d-831a-4bca-9b5b-1b9884ccf5ea",
-            "name": "Ergonomic Mouse",
-            "price": 2705,
-            "quant": 146
-        },
-        {
-            "id": "39dcb898-bc6d-4de9-b5b2-20d4be5c470f",
-            "name": "Smart Plug",
-            "price": 1198,
-            "quant": 106
-        },
-        {
-            "id": "02aedc4e-c154-40ad-8e2f-a7ae75674bc0",
-            "name": "Smart Light Bulb",
-            "price": 3923,
-            "quant": 303
-        },
-        {
-            "id": "04b770e6-18f5-4b70-a428-8662d032dc70",
-            "name": "Dash Cam",
-            "price": 3322,
-            "quant": 189
-        },
-        {
-            "id": "819217a3-fdf9-4b30-98b6-ead0eb580c2e",
-            "name": "E-Reader",
-            "price": 3401,
-            "quant": 274
-        },
-        {
-            "id": "f0520ab6-4992-436b-b728-ca5d8fda03c4",
-            "name": "Drawing Tablet",
-            "price": 934,
-            "quant": 242
-        },
-        {
-            "id": "e2fc0eaf-13ef-46ba-bb66-f1a909f0dd16",
-            "name": "Home Security Camera",
-            "price": 2481,
-            "quant": 460
-        },
-        {
-            "id": "f78c7c17-0d6b-4bc6-a270-e23364fd5b03",
-            "name": "Wi-Fi Router",
-            "price": 2254,
-            "quant": 299
-        },
-        {
-            "id": "86234f50-da82-4bd7-860c-b6a0567fc285",
-            "name": "Gaming Controller",
-            "price": 3247,
-            "quant": 391
-        },
-        {
-            "id": "ec4f8938-8f51-45d5-98d4-fd7868952b88",
-            "name": "Studio Monitor",
-            "price": 2470,
-            "quant": 199
-        },
-        {
-            "id": "ef22a804-08ce-429d-9952-baf5896aa8cc",
-            "name": "Video Capture Card",
-            "price": 3241,
-            "quant": 87
-        },
-        {
-            "id": "0ad28496-348a-45ce-8e72-a85488da30f8",
-            "name": "Portable Monitor",
-            "price": 1113,
-            "quant": 283
-        },
-        {
-            "id": "6b06d921-c2c3-4d8b-971a-4df72f86f062",
-            "name": "Standing Desk",
-            "price": 2777,
-            "quant": 157
-        },
-        {
-            "id": "da2b9681-3384-4d47-a6af-68a429f8c0a1",
-            "name": "Monitor Arm",
-            "price": 2130,
-            "quant": 272
-        },
-        {
-            "id": "f7594ee5-ea6b-4b67-9122-f420721fb97d",
-            "name": "Laser Printer",
-            "price": 1040,
-            "quant": 276
-        },
-        {
-            "id": "56ad8430-8eb0-4d17-a13d-46ab1e331fe4",
-            "name": "Air Purifier",
-            "price": 299,
-            "quant": 197
-        },
-        {
-            "id": "ca3ff40b-ce90-438b-8abe-68cd9d318718",
-            "name": "Electric Toothbrush",
-            "price": 419,
-            "quant": 16
-        },
-        {
-            "id": "26dbe672-2aee-4e73-8e1c-7115e1f3d0fb",
-            "name": "Massage Gun",
-            "price": 3962,
-            "quant": 454
-        },
-        {
-            "id": "5d6a4d6a-d019-460d-bec3-e08c2c57992a",
-            "name": "Wireless Earbuds",
-            "price": 1636,
-            "quant": 84
-        },
-        {
-            "id": "a12f34b6-cd89-4a01-a123-b4567d8e901f",
-            "name": "Apple MacBook Pro 16-inch M3 Max",
-            "price": 3499.99,
-            "quant": 12
-        },
-        {
-            "id": "b23c45d7-de67-4b98-a234-f6789ab012cd",
-            "name": "Sony WH-1000XM5 Wireless Headphones",
-            "price": 399.99,
-            "quant": 25
-        },
-        {
-            "id": "c34d56e8-ef78-4c12-b345-a789bc123def",
-            "name": "Logitech MX Master 3S Wireless Mouse",
-            "price": 99.99,
-            "quant": 50
-        },
-        {
-            "id": "d45e67f9-fa89-4d23-c456-b890cd234efa",
-            "name": "Nike Air Max 270 Men's Running Shoes",
-            "price": 159.95,
-            "quant": 35
-        },
-        {
-            "id": "e56f78a1-ab90-4e34-d567-c901de345fab",
-            "name": "Samsung 49\" Ultrawide Monitor QLED",
-            "price": 1299,
-            "quant": 8
-        },
-        {
-            "id": "f67a89b2-bc01-4f45-e678-d012ef456abc",
-            "name": "Dell XPS 15 9530 OLED 32GB RAM 1TB SSD",
-            "price": 2799,
-            "quant": 6
-        },
-        {
-            "id": "g78b90c3-cd12-4g56-f789-e123f0456bcd",
-            "name": "HP OfficeJet Pro 9025e All-in-One Printer",
-            "price": 299.99,
-            "quant": 20
-        },
-        {
-            "id": "h89c01d4-de23-4h67-g890-f2340567cdef",
-            "name": "Apple iPad Pro 12.9-inch (M4, Wi-Fi, 1TB)",
-            "price": 1899.99,
-            "quant": 15
-        },
-        {
-            "id": "i90d12e5-ef34-4i78-h901-g3450678defa",
-            "name": "Asus ROG Strix G18 Gaming Laptop RTX 4080",
-            "price": 2899,
-            "quant": 10
-        },
-        {
-            "id": "j01e23f6-fa45-4j89-i012-h4560789efab",
-            "name": "Herman Miller Aeron Ergonomic Office Chair",
-            "price": 1449.99,
-            "quant": 5
-        },
-        {
-            "id": "b06b605d-e77b-4154-9a0d-b8c11948f475",
-            "name": "Samsung 32\" Smart Monitor M8",
-            "price": 699.99,
-            "quant": 15
-        },
-        {
-            "id": "774ed19b-be82-40be-a035-0ed3b36b916b",
-            "name": "LG UltraGear 34-inch QHD",
-            "price": 999.99,
-            "quant": 10
-        },
-        {
-            "id": "71e6298d-4591-4da3-9ac1-5a0a283daffc",
-            "name": "BenQ EX3501R Curved Monitor",
-            "price": 749,
-            "quant": 12
-        },
-        {
-            "id": "59afdd56-019a-4925-90d0-6ae49224e747",
-            "name": "Dell U2723QE 4K USB-C",
-            "price": 639,
-            "quant": 18
-        },
-        {
-            "id": "a4d16112-124f-4c3a-8708-0171b0b8270f",
-            "name": "ASUS ProArt Display 27\"",
-            "price": 499.99,
-            "quant": 20
-        },
-        {
-            "id": "1a739ace-78f9-4a7a-ae1f-51f4d8292646",
-            "name": "Herman Miller Aeron Chair",
-            "price": 1449.99,
-            "quant": 5
-        },
-        {
-            "id": "8933007a-99f0-4a7c-975e-9dd00792610f",
-            "name": "Secretlab Titan Evo 2024",
-            "price": 589,
-            "quant": 8
-        },
-        {
-            "id": "910d9769-5530-4be1-97fd-26ad397a05e3",
-            "name": "Flexispot E7 Standing Desk",
-            "price": 699.99,
-            "quant": 6
-        },
-        {
-            "id": "ee30e02b-f012-4d6b-b409-c5b060adc8f7",
-            "name": "IKEA Bekant Desk",
-            "price": 329,
-            "quant": 10
-        },
-        {
-            "id": "de191bcd-cac9-4c28-acf6-497cdfe30a28",
-            "name": "Autonomous ErgoChair Pro",
-            "price": 499.99,
-            "quant": 7
-        },
-        {
-            "id": "d17b403d-6788-45c8-ae61-1428494e283a",
-            "name": "Canon EOS R8 Mirrorless Camera",
-            "price": 1499,
-            "quant": 9
-        },
-        {
-            "id": "bb33e6a9-0f0e-4992-9359-35dad3d47421",
-            "name": "Sony Alpha A7 IV",
-            "price": 2499.99,
-            "quant": 5
-        },
-        {
-            "id": "5274f947-579b-4049-9fc9-d6dbb2dfc722",
-            "name": "Fujifilm X-T5",
-            "price": 1799,
-            "quant": 7
-        },
-        {
-            "id": "fbed538b-ce5f-4643-9a4c-b0412fed3b6f",
-            "name": "Nikon Z6 II",
-            "price": 1999.99,
-            "quant": 4
-        },
-        {
-            "id": "e0315d2d-9a25-4b4a-b336-22dfc8824e11",
-            "name": "Panasonic Lumix GH6",
-            "price": 1995,
-            "quant": 3
-        },
-        {
-            "id": "4fd61247-a671-4a46-a51e-e8a059bacfb1",
-            "name": "DJI Mini 4 Pro Drone",
-            "price": 999,
-            "quant": 10
-        },
-        {
-            "id": "d899bdd1-24e2-4722-ac40-1bb4a4131ea2",
-            "name": "GoPro HERO12 Black",
-            "price": 449.99,
-            "quant": 20
-        },
-        {
-            "id": "02e77d71-e923-4640-bb82-676356a9614d",
-            "name": "Insta360 X3",
-            "price": 539,
-            "quant": 15
-        },
-        {
-            "id": "4237b0e9-24cf-4f01-8e18-051b2ed98361",
-            "name": "DJI Osmo Pocket 3",
-            "price": 519,
-            "quant": 12
-        },
-        {
-            "id": "25be4bb4-d8a6-4817-9d97-7b59d8776ddd",
-            "name": "Autel EVO Lite+",
-            "price": 1149,
-            "quant": 6
-        },
-        {
-            "id": "8df04607-f46f-4923-b178-df03c1bfda58",
-            "name": "Apple Watch Ultra 2",
-            "price": 799,
-            "quant": 25
-        },
-        {
-            "id": "031e9eb2-0b94-4e98-ba90-41b8311303b8",
-            "name": "Samsung Galaxy Watch6 Classic",
-            "price": 499,
-            "quant": 30
-        },
-        {
-            "id": "d8b0d44c-d18a-4010-b92d-b8e2be2f24b9",
-            "name": "Garmin Fenix 7 Pro",
-            "price": 899.99,
-            "quant": 18
-        },
-        {
-            "id": "414e4f6e-54ab-4f1e-8c0c-892c9d7436ef",
-            "name": "Fitbit Sense 2",
-            "price": 299.99,
-            "quant": 22
-        },
-        {
-            "id": "bbe0fe67-b762-496c-abed-e6e6db2890a5",
-            "name": "Huawei Watch GT 4",
-            "price": 249,
-            "quant": 19
-        },
-        {
-            "id": "c2ae8b1e-9fad-473d-9e14-c42f6a591943",
-            "name": "Amazfit GTR 4",
-            "price": 219,
-            "quant": 27
-        },
-        {
-            "id": "724478b2-a3dd-4571-8014-24294f1fce86",
-            "name": "Logitech MX Keys S",
-            "price": 109.99,
-            "quant": 50
-        },
-        {
-            "id": "aa8cfdc5-543e-491b-9364-b0e9907e64bc",
-            "name": "Razer BlackWidow V4 Pro",
-            "price": 229,
-            "quant": 16
-        },
-        {
-            "id": "37163d76-fcec-457d-957c-54e748f8336d",
-            "name": "Keychron K8 Pro",
-            "price": 159,
-            "quant": 20
-        }
-    ],
-    "navigation": [
-        {
-            "icon": "inbox",
-            "to": "inbox",
-            "label": "Inbox",
-            "separator": false,
-            "id": "dqwdwodfwejo435"
-        },
-        {
-            "icon": "send",
-            "to": "outbox",
-            "label": "Outbox",
-            "separator": false,
-            "id": "fe340t934j0dioj"
-        },
-        {
-            "icon": "delete",
-            "to": "trash",
-            "label": "Trash",
-            "separator": false,
-            "id": "dawi0dj230dqok"
-        },
-        {
-            "icon": "settings",
-            "to": "settings",
-            "label": "Settings",
-            "separator": true,
-            "id": "dawju2309ri23j"
-        }
-    ],
-    "deleted-data": []
+  "products": [
+    {
+      "id": "4f08cfdf-4ea1-4aa5-95a5-cfc1e451f99a",
+      "name": "LED Strip Light",
+      "price": 830,
+      "quant": 218
+    },
+    {
+      "id": "b3c50140-6446-4787-afb1-8642f54069a7",
+      "name": "Fitness Tracker",
+      "price": 2673,
+      "quant": 34
+    },
+    {
+      "id": "a2b233eb-23b1-4792-b77b-03dd89f0ef73",
+      "name": "Smart Thermostat",
+      "price": 834,
+      "quant": 464
+    },
+    {
+      "id": "46c2688c-b33e-4053-9425-ab368a366761",
+      "name": "Robot Vacuum",
+      "price": 3719,
+      "quant": 81
+    },
+    {
+      "id": "02e154a7-baec-4a6c-a610-65690b126d54",
+      "name": "Smart TV",
+      "price": 3250,
+      "quant": 337
+    },
+    {
+      "id": "24eed493-da6c-4655-8f70-323782505743",
+      "name": "3D Printer",
+      "price": 899,
+      "quant": 497
+    },
+    {
+      "id": "ff376b64-0409-4138-bdfd-82e1695f08d5",
+      "name": "Gaming Chair",
+      "price": 2813,
+      "quant": 340
+    },
+    {
+      "id": "88000a3d-d245-4e46-b481-1c23ebb58b40",
+      "name": "Electric Scooter",
+      "price": 2534,
+      "quant": 346
+    },
+    {
+      "id": "43a7ae9a-8dae-4307-8172-3038f9a61ef8",
+      "name": "Digital SLR Camera",
+      "price": 1309,
+      "quant": 483
+    },
+    {
+      "id": "70b5b6f2-ecf7-4399-be1d-d05fd91a342d",
+      "name": "Streaming Microphone",
+      "price": 2806,
+      "quant": 453
+    },
+    {
+      "id": "93b67f0f-f2cb-4567-9bf5-1aeca84c52c1",
+      "name": "Projector",
+      "price": 1568,
+      "quant": 211
+    },
+    {
+      "id": "854ebd9a-0afe-423e-9d6e-dd83b6692c2d",
+      "name": "NAS Storage",
+      "price": 2519,
+      "quant": 422
+    },
+    {
+      "id": "0a071290-6d4c-49f7-8111-1b1f296ed963",
+      "name": "Smart Doorbell",
+      "price": 2621,
+      "quant": 102
+    },
+    {
+      "id": "43dc7136-4bf9-42eb-a2db-7b962f3e4512",
+      "name": "Power Bank",
+      "price": 145,
+      "quant": 236
+    },
+    {
+      "id": "eb03ae5f-d145-4c4a-a3b1-20deb8117dd7",
+      "name": "External Hard Drive",
+      "price": 1853,
+      "quant": 117
+    },
+    {
+      "id": "691eed79-3cc8-40a7-8d5f-d31d75c154dd",
+      "name": "Laptop Stand",
+      "price": 3760,
+      "quant": 129
+    },
+    {
+      "id": "3319fb0d-831a-4bca-9b5b-1b9884ccf5ea",
+      "name": "Ergonomic Mouse",
+      "price": 2705,
+      "quant": 146
+    },
+    {
+      "id": "39dcb898-bc6d-4de9-b5b2-20d4be5c470f",
+      "name": "Smart Plug",
+      "price": 1198,
+      "quant": 106
+    },
+    {
+      "id": "02aedc4e-c154-40ad-8e2f-a7ae75674bc0",
+      "name": "Smart Light Bulb",
+      "price": 3923,
+      "quant": 303
+    },
+    {
+      "id": "04b770e6-18f5-4b70-a428-8662d032dc70",
+      "name": "Dash Cam",
+      "price": 3322,
+      "quant": 189
+    },
+    {
+      "id": "819217a3-fdf9-4b30-98b6-ead0eb580c2e",
+      "name": "E-Reader",
+      "price": 3401,
+      "quant": 274
+    },
+    {
+      "id": "f0520ab6-4992-436b-b728-ca5d8fda03c4",
+      "name": "Drawing Tablet",
+      "price": 934,
+      "quant": 242
+    },
+    {
+      "id": "e2fc0eaf-13ef-46ba-bb66-f1a909f0dd16",
+      "name": "Home Security Camera",
+      "price": 2481,
+      "quant": 460
+    },
+    {
+      "id": "f78c7c17-0d6b-4bc6-a270-e23364fd5b03",
+      "name": "Wi-Fi Router",
+      "price": 2254,
+      "quant": 299
+    },
+    {
+      "id": "86234f50-da82-4bd7-860c-b6a0567fc285",
+      "name": "Gaming Controller",
+      "price": 3247,
+      "quant": 391
+    },
+    {
+      "id": "ec4f8938-8f51-45d5-98d4-fd7868952b88",
+      "name": "Studio Monitor",
+      "price": 2470,
+      "quant": 199
+    },
+    {
+      "id": "ef22a804-08ce-429d-9952-baf5896aa8cc",
+      "name": "Video Capture Card",
+      "price": 3241,
+      "quant": 87
+    },
+    {
+      "id": "0ad28496-348a-45ce-8e72-a85488da30f8",
+      "name": "Portable Monitor",
+      "price": 1113,
+      "quant": 283
+    },
+    {
+      "id": "6b06d921-c2c3-4d8b-971a-4df72f86f062",
+      "name": "Standing Desk",
+      "price": 2777,
+      "quant": 157
+    },
+    {
+      "id": "da2b9681-3384-4d47-a6af-68a429f8c0a1",
+      "name": "Monitor Arm",
+      "price": 2130,
+      "quant": 272
+    },
+    {
+      "id": "f7594ee5-ea6b-4b67-9122-f420721fb97d",
+      "name": "Laser Printer",
+      "price": 1040,
+      "quant": 276
+    },
+    {
+      "id": "56ad8430-8eb0-4d17-a13d-46ab1e331fe4",
+      "name": "Air Purifier",
+      "price": 299,
+      "quant": 197
+    },
+    {
+      "id": "ca3ff40b-ce90-438b-8abe-68cd9d318718",
+      "name": "Electric Toothbrush",
+      "price": 419,
+      "quant": 16
+    },
+    {
+      "id": "26dbe672-2aee-4e73-8e1c-7115e1f3d0fb",
+      "name": "Massage Gun",
+      "price": 3962,
+      "quant": 454
+    },
+    {
+      "id": "5d6a4d6a-d019-460d-bec3-e08c2c57992a",
+      "name": "Wireless Earbuds",
+      "price": 1636,
+      "quant": 84
+    },
+    {
+      "id": "a12f34b6-cd89-4a01-a123-b4567d8e901f",
+      "name": "Apple MacBook Pro 16-inch M3 Max",
+      "price": 3499.99,
+      "quant": 12
+    },
+    {
+      "id": "b23c45d7-de67-4b98-a234-f6789ab012cd",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "price": 399.99,
+      "quant": 25
+    },
+    {
+      "id": "c34d56e8-ef78-4c12-b345-a789bc123def",
+      "name": "Logitech MX Master 3S Wireless Mouse",
+      "price": 99.99,
+      "quant": 50
+    },
+    {
+      "id": "d45e67f9-fa89-4d23-c456-b890cd234efa",
+      "name": "Nike Air Max 270 Men's Running Shoes",
+      "price": 159.95,
+      "quant": 35
+    },
+    {
+      "id": "e56f78a1-ab90-4e34-d567-c901de345fab",
+      "name": "Samsung 49\" Ultrawide Monitor QLED",
+      "price": 1299,
+      "quant": 8
+    },
+    {
+      "id": "f67a89b2-bc01-4f45-e678-d012ef456abc",
+      "name": "Dell XPS 15 9530 OLED 32GB RAM 1TB SSD",
+      "price": 2799,
+      "quant": 6
+    },
+    {
+      "id": "g78b90c3-cd12-4g56-f789-e123f0456bcd",
+      "name": "HP OfficeJet Pro 9025e All-in-One Printer",
+      "price": 299.99,
+      "quant": 20
+    },
+    {
+      "id": "h89c01d4-de23-4h67-g890-f2340567cdef",
+      "name": "Apple iPad Pro 12.9-inch (M4, Wi-Fi, 1TB)",
+      "price": 1899.99,
+      "quant": 15
+    },
+    {
+      "id": "i90d12e5-ef34-4i78-h901-g3450678defa",
+      "name": "Asus ROG Strix G18 Gaming Laptop RTX 4080",
+      "price": 2899,
+      "quant": 10
+    },
+    {
+      "id": "j01e23f6-fa45-4j89-i012-h4560789efab",
+      "name": "Herman Miller Aeron Ergonomic Office Chair",
+      "price": 1449.99,
+      "quant": 5
+    },
+    {
+      "id": "b06b605d-e77b-4154-9a0d-b8c11948f475",
+      "name": "Samsung 32\" Smart Monitor M8",
+      "price": 699.99,
+      "quant": 15
+    },
+    {
+      "id": "774ed19b-be82-40be-a035-0ed3b36b916b",
+      "name": "LG UltraGear 34-inch QHD",
+      "price": 999.99,
+      "quant": 10
+    },
+    {
+      "id": "71e6298d-4591-4da3-9ac1-5a0a283daffc",
+      "name": "BenQ EX3501R Curved Monitor",
+      "price": 749,
+      "quant": 12
+    },
+    {
+      "id": "59afdd56-019a-4925-90d0-6ae49224e747",
+      "name": "Dell U2723QE 4K USB-C",
+      "price": 639,
+      "quant": 18
+    },
+    {
+      "id": "a4d16112-124f-4c3a-8708-0171b0b8270f",
+      "name": "ASUS ProArt Display 27\"",
+      "price": 499.99,
+      "quant": 20
+    },
+    {
+      "id": "1a739ace-78f9-4a7a-ae1f-51f4d8292646",
+      "name": "Herman Miller Aeron Chair",
+      "price": 1449.99,
+      "quant": 5
+    },
+    {
+      "id": "8933007a-99f0-4a7c-975e-9dd00792610f",
+      "name": "Secretlab Titan Evo 2024",
+      "price": 589,
+      "quant": 8
+    },
+    {
+      "id": "910d9769-5530-4be1-97fd-26ad397a05e3",
+      "name": "Flexispot E7 Standing Desk",
+      "price": 699.99,
+      "quant": 6
+    },
+    {
+      "id": "ee30e02b-f012-4d6b-b409-c5b060adc8f7",
+      "name": "IKEA Bekant Desk",
+      "price": 329,
+      "quant": 10
+    },
+    {
+      "id": "de191bcd-cac9-4c28-acf6-497cdfe30a28",
+      "name": "Autonomous ErgoChair Pro",
+      "price": 499.99,
+      "quant": 7
+    },
+    {
+      "id": "d17b403d-6788-45c8-ae61-1428494e283a",
+      "name": "Canon EOS R8 Mirrorless Camera",
+      "price": 1499,
+      "quant": 9
+    },
+    {
+      "id": "bb33e6a9-0f0e-4992-9359-35dad3d47421",
+      "name": "Sony Alpha A7 IV",
+      "price": 2499.99,
+      "quant": 5
+    },
+    {
+      "id": "5274f947-579b-4049-9fc9-d6dbb2dfc722",
+      "name": "Fujifilm X-T5",
+      "price": 1799,
+      "quant": 7
+    },
+    {
+      "id": "fbed538b-ce5f-4643-9a4c-b0412fed3b6f",
+      "name": "Nikon Z6 II",
+      "price": 1999.99,
+      "quant": 4
+    },
+    {
+      "id": "e0315d2d-9a25-4b4a-b336-22dfc8824e11",
+      "name": "Panasonic Lumix GH6",
+      "price": 1995,
+      "quant": 3
+    },
+    {
+      "id": "4fd61247-a671-4a46-a51e-e8a059bacfb1",
+      "name": "DJI Mini 4 Pro Drone",
+      "price": 999,
+      "quant": 10
+    },
+    {
+      "id": "d899bdd1-24e2-4722-ac40-1bb4a4131ea2",
+      "name": "GoPro HERO12 Black",
+      "price": 449.99,
+      "quant": 20
+    },
+    {
+      "id": "02e77d71-e923-4640-bb82-676356a9614d",
+      "name": "Insta360 X3",
+      "price": 539,
+      "quant": 15
+    },
+    {
+      "id": "4237b0e9-24cf-4f01-8e18-051b2ed98361",
+      "name": "DJI Osmo Pocket 3",
+      "price": 519,
+      "quant": 12
+    },
+    {
+      "id": "25be4bb4-d8a6-4817-9d97-7b59d8776ddd",
+      "name": "Autel EVO Lite+",
+      "price": 1149,
+      "quant": 6
+    },
+    {
+      "id": "8df04607-f46f-4923-b178-df03c1bfda58",
+      "name": "Apple Watch Ultra 2",
+      "price": 799,
+      "quant": 25
+    },
+    {
+      "id": "031e9eb2-0b94-4e98-ba90-41b8311303b8",
+      "name": "Samsung Galaxy Watch6 Classic",
+      "price": 499,
+      "quant": 30
+    },
+    {
+      "id": "d8b0d44c-d18a-4010-b92d-b8e2be2f24b9",
+      "name": "Garmin Fenix 7 Pro",
+      "price": 899.99,
+      "quant": 18
+    },
+    {
+      "id": "414e4f6e-54ab-4f1e-8c0c-892c9d7436ef",
+      "name": "Fitbit Sense 2",
+      "price": 299.99,
+      "quant": 22
+    },
+    {
+      "id": "bbe0fe67-b762-496c-abed-e6e6db2890a5",
+      "name": "Huawei Watch GT 4",
+      "price": 249,
+      "quant": 19
+    },
+    {
+      "id": "c2ae8b1e-9fad-473d-9e14-c42f6a591943",
+      "name": "Amazfit GTR 4",
+      "price": 219,
+      "quant": 27
+    },
+    {
+      "id": "724478b2-a3dd-4571-8014-24294f1fce86",
+      "name": "Logitech MX Keys S",
+      "price": 109.99,
+      "quant": 50
+    },
+    {
+      "id": "aa8cfdc5-543e-491b-9364-b0e9907e64bc",
+      "name": "Razer BlackWidow V4 Pro",
+      "price": 229,
+      "quant": 16
+    },
+    {
+      "id": "37163d76-fcec-457d-957c-54e748f8336d",
+      "name": "Keychron K8 Pro",
+      "price": 159,
+      "quant": 20
+    }
+  ],
+  "navigation": [
+    {
+      "icon": "inbox",
+      "to": "inbox",
+      "label": "Inbox",
+      "separator": false,
+      "id": "dqwdwodfwejo435"
+    },
+    {
+      "icon": "send",
+      "to": "outbox",
+      "label": "Outbox",
+      "separator": false,
+      "id": "fe340t934j0dioj"
+    },
+    {
+      "icon": "delete",
+      "to": "trash",
+      "label": "Trash",
+      "separator": false,
+      "id": "dawi0dj230dqok"
+    },
+    {
+      "icon": "settings",
+      "to": "settings",
+      "label": "Settings",
+      "separator": true,
+      "id": "dawju2309ri23j"
+    }
+  ],
+  "deleted-data": [
+    {
+      "id": "1b9b51e1-7a7f-461a-8aff-7d0cc7513227",
+      "name": "Gaming Laptop",
+      "price": 964,
+      "quant": 143
+    },
+    {
+      "id": "c67ed78f-6f55-410c-b3ee-017e08e383a7",
+      "name": "Wireless Headphones",
+      "price": 3465,
+      "quant": 48
+    },
+    {
+      "id": "42d75fc9-0018-48d1-a253-079d080fbebf",
+      "name": "Mechanical Keyboard",
+      "price": 3332,
+      "quant": 413
+    },
+    {
+      "id": "b5830380-eb2c-4819-8f1c-46028b31e2cb",
+      "name": "Smartphone",
+      "price": 2123,
+      "quant": 43
+    },
+    {
+      "id": "d583d0c7-e37c-4a7c-a8cf-d31613ebc811",
+      "name": "Bluetooth Speaker",
+      "price": 143,
+      "quant": 295
+    },
+    {
+      "id": "3fbb7a33-aac9-4044-84c3-427c8bd430b2",
+      "name": "Smartwatch",
+      "price": 3216,
+      "quant": 289
+    },
+    {
+      "id": "cc5fd7c1-1489-4b71-8cf5-996d108ada7a",
+      "name": "Portable SSD",
+      "price": 2791,
+      "quant": 384
+    },
+    {
+      "id": "e2b17834-72d5-44ff-b221-9d5951965d8d",
+      "name": "4K Monitor",
+      "price": 297,
+      "quant": 178
+    },
+    {
+      "id": "c8a4fe35-cef9-476d-b246-cfe5d0613fb7",
+      "name": "Graphics Card",
+      "price": 2130,
+      "quant": 74
+    },
+    {
+      "id": "064e15e9-2bcd-4449-9f3e-50d605396036",
+      "name": "Gaming Mouse",
+      "price": 234,
+      "quant": 166
+    },
+    {
+      "id": "17edf752-47f9-4690-bd12-6986ba289c50",
+      "name": "Drone Camera",
+      "price": 2393,
+      "quant": 65
+    },
+    {
+      "id": "d396e177-f0b7-430e-b403-b7b576a3021f",
+      "name": "Wireless Charger",
+      "price": 3486,
+      "quant": 290
+    },
+    {
+      "id": "a44b6ef7-f0ae-4e1d-99cd-d6c4788d184c",
+      "name": "VR Headset",
+      "price": 375,
+      "quant": 116
+    },
+    {
+      "id": "03aa7207-a731-4c25-999c-1a7ca1fb5ca4",
+      "name": "Action Camera",
+      "price": 2425,
+      "quant": 144
+    },
+    {
+      "id": "5142842c-db2d-4412-a078-6b83a45b4f8d",
+      "name": "Noise Cancelling Headphones",
+      "price": 1867,
+      "quant": 275
+    }
+  ]
 }
